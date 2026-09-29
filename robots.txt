@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nooks.asia/sitemap.xml
